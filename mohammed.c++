@@ -1,4 +1,5 @@
- double TP_org, TD_org, EMD1, EMD2, TP_gnrl, TD_gnrl, EMD3, EMD4, TP_cell, emd_cell1, 
+ using namespace std;
+double TP_org, TD_org, EMD1, EMD2, TP_gnrl, TD_gnrl, EMD3, EMD4, TP_cell, emd_cell1, 
  emd_cell2, emd_cell3, td_math, emd_math1, emd_math2, emd_anatomie, emd_physio, td_physio,
  emd_français, emd_his, td_physique, emd_physique1, emd_physique2, emd1_veg, emd2_veg, tp_veg,
  moy_org, moy_veg, moy_cell, moy_gnrl, moy_physio, moy_physique, moy_français, moy_anatomie, moy_his, moy_math, moy_totale ;

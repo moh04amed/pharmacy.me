@@ -55,7 +55,3 @@ if (moy_totale >= 10 )
 cout << "Congratulation you passed \n" ;
 else
     cout << "في جويلية رجع \n" ;
-cout << "Unfortunetly you failed!" ;
-
-return 0; 
-}

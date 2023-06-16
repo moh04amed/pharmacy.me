@@ -37,7 +37,7 @@ cout << "tp_veg:"; cin >> tp_veg;
 cout << "Moyenne de org:" << moy_org ;
 moy_gnrl = ((TP_gnrl + TD_gnrl) / 2 + EMD3 + EMD4 ) / 3 ;
 cout << "Moyenne de gnrl:" << moy_gnrl ;
-moy_cell = (TP_cell + emd_cell1 + emd_cell2 + emd_cell3 ) / 3 ;
+moy_cell = (TP_cell + emd_cell1 + emd_cell2 + emd_cell3 ) / 4 ;
 cout << "Moyenne de cell:" << moy_cell ;
 moy_veg = ( tp_veg + emd1_veg + emd2_veg ) / 3 ;
 cout << "Moyenne de veg:" << moy_veg;
